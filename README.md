@@ -13,10 +13,10 @@
 
 ### Sobre Mim
 
-- 🎓 **Formação**: Técnico em Informática pela **ULBRA São Lucas** (Sapucaia do Sul) e cursando **Análise e Desenvolvimento de Sistemas** na **Uniasselvi**.
-- 💡 **Foco atual**: Desenvolvimento Full Stack com ênfase em **C# .NET** + **MySQL**, enquanto estudo **React** para o front-end.
-- 🎨 **Ponto forte**: Design de interfaces + modelagem e diagramação de banco de dados.
-- 🚀 Busco sempre compreender a fundo as tecnologias que utilizo, não apenas utilizá-las.
+- **Formação**: Técnico em Informática pela **ULBRA São Lucas** (Sapucaia do Sul) e cursando **Análise e Desenvolvimento de Sistemas** na **Uniasselvi**.
+- **Foco atual**: Desenvolvimento Full Stack com ênfase em **C# .NET** + **MySQL**, enquanto estudo **React** para o front-end.
+- **Ponto forte**: Design de interfaces + modelagem e diagramação de banco de dados.
+- Busco sempre compreender a fundo as tecnologias que utilizo, não apenas utilizá-las.
 
 Atualmente estou aprimorando minhas habilidades em **C#** com **Microsoft Visual Studio**, mas também tenho experiência com **NetBeans** e **VS Code**.
 
@@ -59,13 +59,6 @@ Atualmente estou aprimorando minhas habilidades em **C#** com **Microsoft Visual
 ### Contato
 
 📧 **Email:** [turczinskileon@gmail.com](mailto:turczinskileon@gmail.com)
-
----
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonTurc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonTurc&layout=compact&theme=tokyonight&hide_progress_bar=false" alt="Linguagens mais usadas"/>
-</div>
 
 ---
 
