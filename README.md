@@ -63,8 +63,8 @@ Atualmente estou aprimorando minhas habilidades em **C#** com **Microsoft Visual
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonTurc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonTurc&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonTurc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonTurc&layout=compact&theme=tokyonight&hide_progress_bar=false" alt="Linguagens mais usadas"/>
 </div>
 
 ---
